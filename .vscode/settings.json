@@ -1,6 +1,13 @@
 {
-  "css.validate": true,
-  "less.validate": true,
-  "scss.validate": true,
-  "stylelint.enable": true
+  // 设置默认用prettier插件进行代码格式化
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // stylelint 校验的文件格式
+  "stylelint.validate": ["css", "less", "postcss", "scss", "sass", "html"],
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    // "eslint.config.js": ",  , .stylelintignore",
+    "prettier.config.mjs": ", .prettierignore,",
+    "stylelint.config.js": ", .stylelintignore,"
+  }
 }
