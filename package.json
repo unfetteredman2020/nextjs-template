@@ -10,6 +10,8 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "mobx": "^6.13.5",
+    "mobx-react": "^9.2.0",
     "next": "^15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -32,6 +34,7 @@
     "lint-staged": "^15.3.0",
     "postcss": "^8",
     "postcss-lit": "^1.2.0",
+    "postcss-pxtorem": "^6.1.0",
     "prettier": "^3.4.2",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "stylelint": "^16.13.2",

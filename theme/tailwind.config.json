@@ -1,0 +1,64 @@
+{
+  "tailWindAttrs": [
+    {
+      "key": "width",
+      "max": 2000,
+      "min": 2
+    },
+    {
+      "key": "maxWidth",
+      "max": 2000,
+      "min": 2
+    },
+    {
+      "key": "height",
+      "max": 2000,
+      "min": 2
+    },
+    {
+      "key": "maxHeight",
+      "max": 2000,
+      "min": 2
+    },
+    {
+      "key": "borderWidth",
+      "max": 100,
+      "min": 2
+    },
+    {
+      "key": "padding",
+      "max": 1000,
+      "min": 0
+    },
+    {
+      "key": "margin",
+      "max": 1000,
+      "min": 0
+    },
+    {
+      "key": "borderRadius",
+      "max": 200,
+      "min": 0
+    },
+    {
+      "key": "lineHeight",
+      "max": 100,
+      "min": 0
+    },
+    {
+      "key": "gap",
+      "max": 100,
+      "min": 0
+    },
+    {
+      "key": "zIndex",
+      "max": 1000,
+      "min": 0
+    },
+    {
+      "key": "gap",
+      "max": 500,
+      "min": 0
+    }
+  ]
+}
