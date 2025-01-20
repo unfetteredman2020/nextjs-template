@@ -46,11 +46,6 @@
       "min": 0
     },
     {
-      "key": "gap",
-      "max": 100,
-      "min": 0
-    },
-    {
       "key": "zIndex",
       "max": 1000,
       "min": 0
