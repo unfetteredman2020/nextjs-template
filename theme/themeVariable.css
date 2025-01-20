@@ -1,0 +1,33 @@
+:root {
+  --background-start-rgb: 255 255 255;
+  --background-end-rgb: 255 255 255; /* #fff */
+  --primary: 55 74 179; /* #374ab3 */
+  --downy: 109 94 209; /* #6D5ED1  */
+  --bg: 255 255 255; /* #fff */
+  --reversal-bg: 0 0 0;
+  --title: 0 0 0;
+  --subtitle: 78 89 105; /* #4e5969 */
+  --reversal-title: 255 255 255; /* #fff */
+  --reversal-subtitle: 255 255 255; /* #fff */
+  --text: 134 144 156; /* #86909c */
+  --border: 169 174 184; /* #a9aeb8 */
+  --deep-primary: 39 57 135; /* #273987 */
+  --alfalfa: 218 196 251; /* #dac4fb */
+  --lavender-purple: 193 156 248; /* #C19CF8  */
+  --intense-violet: 93 73 206 /*  #5D49CE */;
+  --white: 255 255 255;
+  --black: 0 0 0;
+  --light-blue: 52 107 226; /* #346BE2 */
+  --medium-gray: 151 151 151; /* #979797 */
+  --deep-ocean-blue: 11 16 38; /* #0B1026 */
+  --neutral-grey: 100 100 100; /* #646464 */
+  --light-grey: 197 197 197; /* #C5C5C5 */
+  --dawn-grey: 216 216 216; /* #D8D8D8 */
+  --sky-lavender: 159 174 255; /*  #9FAEFF */
+  --mid-night-blue: 2 3 18; /*  #020312 */
+  --gentle-orange: 255 234 203; /*  #FFEACB */
+  --sky-haze: 221 232 251; /*   #DDE8FB */
+  --mist-white: 242 242 242; /*   #F2F2F2 */
+  --ethereal-grey: 242 244 247; /*   #F2F4F7 */
+  --hazy-white: 246 246 246; /* #F6F6F6 */
+}
